@@ -8,4 +8,4 @@ http://www.ctan.org/pkg/tikz-timing
 https://www.ctan.org/pkg/karnaugh-map
 
 ### ShareLaTeX - Sections and chapters - for making my documents organized and coherent
-https://www.sharelatex.com/learn/Sections\_and\_chapters
+https://www.sharelatex.com/learn/Sections_and_chapters
